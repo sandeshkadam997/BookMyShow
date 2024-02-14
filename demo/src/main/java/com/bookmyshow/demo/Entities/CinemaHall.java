@@ -56,6 +56,19 @@ public class CinemaHall {
 		
 		}
 
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		public CinemaHall() {
 			super();
 			// TODO Auto-generated constructor stub
@@ -69,5 +82,7 @@ public class CinemaHall {
 	    
 		
 	    
+		
+		
 
 }
